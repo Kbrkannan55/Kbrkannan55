@@ -1,6 +1,8 @@
 ### About Me
 ### I am an experienced developer with a strong focus on .NET and web development, delivering efficient, scalable applications. With expertise in .NET Core, ASP.NET, and modern front-end tools like React and Angular, I build clean, maintainable architectures and optimize development workflows. I’m passionate about creating responsive, high-quality solutions and continuously refining my skills to stay ahead in the industry.
 
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbrkannan55)
 ## Skills
 - ## Frontend
 <span>
